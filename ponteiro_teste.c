@@ -1,4 +1,4 @@
-primeira analise
+//primeira analise
 
 #include <stdio.h> 
 #include <stdlib.h> 

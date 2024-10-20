@@ -7,8 +7,7 @@ int main()
    int *px,*py ;
    int x=1,y=3 ;
  
-   px=malloc(sizeof(int)) ;
-   py=malloc(sizeof(int)) ;
+
 
    *px=10 ;
    *py=30 ;

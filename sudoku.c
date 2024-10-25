@@ -1,7 +1,7 @@
-https://judge.beecrowd.com/pt/runs/code/42150533
+// https://judge.beecrowd.com/pt/runs/code/42150533
 
 
-CODIGO:
+// CODIGO:
 
 #include <stdio.h>
 int pode(int x, int V[9][9], int l, int c){

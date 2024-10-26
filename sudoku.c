@@ -35,7 +35,7 @@ int main(){
                 }
             }
         }
-         printf("Instancia %d\n", n);
+        printf("Instancia %d\n", n);
         if(!instancia){
             printf("SIM\n\n");
         }
@@ -48,7 +48,7 @@ int main(){
         n++;
         for (int i=0; i<9; i++){
             for (int j=0; j<9; j++){
-              V[i][j] = 0;
+                V[i][j] = 0;
             }
         }
     }

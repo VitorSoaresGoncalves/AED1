@@ -29,7 +29,8 @@ void processarPilha(int x) {
             printf(" %d,", descartadas[i]);
         }
         printf(" %d\n", descartadas[descartadasC - 1]);
-    } else {
+    } 
+    else {
         printf("\n");
     }
 

@@ -10,5 +10,5 @@ int main() {
     meses = meses / 30;
     dias = idade - (365 * anos) - (30 * meses);
     printf ("%d ano(s)\n%d mes(es)\n%d dia(s)\n", anos, meses, dias);
-    return 0;
+   
 }

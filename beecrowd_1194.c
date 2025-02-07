@@ -26,7 +26,7 @@ void construirPosOrdem(char *preOrdem, char *inOrdem, char *posOrdem, int *posIn
     
     construirPosOrdem(preOrdem, inOrdem, posOrdem, posIndex, raizIndex + 1, inFim, posOrdemIndex);
 
-     .
+     
     posOrdem[(*posOrdemIndex)++] = raiz;
 }
 

@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 typedef struct no {
     int key;
     struct no* prox;
 } no;
+
 no* criar(int key) {
     no* novoNo = (no*)malloc(sizeof(no));
     if (novoNo != NULL) {
